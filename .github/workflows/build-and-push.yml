@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: ghcr.io/<your-username>/<repository-name>:latest
+          tags: ghcr.io/dermo64/multi-env-setup:latest
